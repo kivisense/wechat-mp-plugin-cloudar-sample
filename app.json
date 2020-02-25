@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "cloudar": {
+      "version": "1.0.1",
+      "provider": "wx3bbab3920eabccb2"
+    }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

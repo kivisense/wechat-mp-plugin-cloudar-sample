@@ -1,0 +1,7 @@
+<kivi-cloudar collectionId="xchrbq" class="layer" bind:error="error"></kivi-cloudar>
+<cover-view class="ui layer">
+  <image-sequence wx-if="{{giftVisibility}}" fps="30" class="gift"></image-sequence>
+  <cover-view class="button" bindtap="start">开启云识别</cover-view>
+  <!-- <cover-view class="button" bindtap="stop">关闭云识别</cover-view> -->
+  <cover-view class="text">云识别结果：{{result}}</cover-view>
+</cover-view>
