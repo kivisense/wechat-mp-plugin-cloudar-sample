@@ -1,1 +1,1 @@
-<canvas id="sequence" canvas-id="image-sequence"></canvas>
+<canvas class="sequence" canvas-id="image-sequence"></canvas>

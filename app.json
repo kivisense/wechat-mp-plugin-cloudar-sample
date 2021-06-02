@@ -5,12 +5,12 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "kivicube cloudar sample",
     "navigationBarTextStyle": "black"
   },
   "plugins": {
-    "cloudar": {
-      "version": "1.0.1",
+    "kivicube": {
+      "version": "1.0.2",
       "provider": "wx3bbab3920eabccb2"
     }
   },

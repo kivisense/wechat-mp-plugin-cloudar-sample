@@ -1,6 +1,6 @@
 {
   "usingComponents": {
-    "kivi-cloudar": "plugin://cloudar/kivi-cloudar",
+    "kivi-cloudar": "plugin://kivicube/kivi-cloudar",
     "image-sequence": "../imageSequence/imageSequence"
   }
 }
